@@ -1,5 +1,13 @@
 # AltSchool Semester 1 Holiday Challenge
 
+![Phonie Screenshot](./images/Phonie.png)
+
+## About
+This is one of the projects Altschool gave as a holiday challenge to test and improve its students' understanding of HTML, CSS and JavaScript. More information about the project can be viewed below.
+
+### View Project
+This project can be viewd through this link [https://circle-234-phonie.repl.co](https://circle-234-phonie.repl.co).
+
 ### What
 Solidify what you’ve learnt by building cool simple things you can showcase
 
